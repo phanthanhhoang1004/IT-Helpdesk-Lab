@@ -115,8 +115,8 @@ Developed PowerShell scripts to support common IT administration tasks.
 ```text
 Enterprise-IT-Helpdesk-Lab/
 ├── Documentation/
-│   ├── Architecture/
 │   ├── Active-Directory/
+|   ├── DHCP/
 │   ├── Group-Policy/
 │   ├── File-Server/
 │   └── PowerShell/
