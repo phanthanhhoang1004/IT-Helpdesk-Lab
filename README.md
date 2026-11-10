@@ -114,11 +114,14 @@ Developed PowerShell scripts to support common IT administration tasks.
 
 ```text
 Enterprise-IT-Helpdesk-Lab/
+├── Deployment-and-Verification-Guide.md
 ├── Documentation/
 │   ├── Active-Directory/
 |   ├── DHCP/
 │   ├── Group-Policy/
 │   ├── File-Server/
+|   ├── Windows-Server/
+|   ├── Windows-Client/
 │   └── PowerShell/
 ├── Scripts/
 │   └── PowerShell/
